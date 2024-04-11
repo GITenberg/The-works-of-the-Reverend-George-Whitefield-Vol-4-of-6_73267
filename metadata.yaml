@@ -1,0 +1,36 @@
+_repo: The-works-of-the-Reverend-George-Whitefield-Vol-4-of-6_73267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitefield, George
+    birthdate: 1714
+    deathdate: 1770
+    gutenberg_agent_id: '55037'
+    url: http://www.gutenberg.org/2009/agents/55037
+    wikipedia: https://en.wikipedia.org/wiki/George_Whitefield
+description: ''
+gutenberg_issued: '2024-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73267'
+language: en
+pgterms:marc904: https://archive.org/details/worksofreverendg04whit
+pgterms:marc905: 20190219151855whitefield
+pgterms:marc906: '1772'
+pgterms:marc907: gb
+production_note: Brian Wilson, Richard Hulse, BookBuff and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bPrinted for Edward and Charles Dilly, etc, $c1772.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 18th century'
+- !lcsh 'Presbyterian Church -- Clergy -- Early works to 1800'
+- !lcsh 'Presbyterian Church -- Sermons -- Early works to 1800'
+- !lcsh 'Whitefield, George, 1714-1770 -- Early works to 1800'
+- !lcc 'BX'
+- GITenberg
+title: The works of the Reverend George Whitefield, Vol. 4 (of 6)
+url: http://www.gutenberg.org/ebooks/73267
