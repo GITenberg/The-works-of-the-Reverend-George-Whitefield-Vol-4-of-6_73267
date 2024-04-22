@@ -1,5 +1,8 @@
 _repo: The-works-of-the-Reverend-George-Whitefield-Vol-4-of-6_73267
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73267-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitefield, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55037
     wikipedia: https://en.wikipedia.org/wiki/George_Whitefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73267#The-works-of-the-Reverend-George-Whitefield-Vol-4-of-6
 gutenberg_issued: '2024-03-26'
 gutenberg_type: Text
 identifiers:
